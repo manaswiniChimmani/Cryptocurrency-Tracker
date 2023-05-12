@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.item-container {
+  display: flex;
+  font-family: 'Roboto';
+  margin: 10px;
+  list-style-type: none;
+}
+.p {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: auto;
+}
+.logo {
+  width: 20px;
+  height: 20px;
+  border-radius: 50px;
+  margin-right: 4px;
+}
+.n1 {
+  color: #ffffff;
+  font-size: 13px;
+}
+.n {
+  color: #ffffff;
+  font-size: 13px;
+  margin-left: 20px;
+}
